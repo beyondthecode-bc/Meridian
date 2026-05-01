@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://beyondthecode.gumroad.com/l/meridian"><img src="https://img.shields.io/badge/Purchase-$12-blue?style=flat-square" alt="Purchase"></a>
+  <a href="https://store.beyondthecode.app/l/meridian-macos"><img src="https://img.shields.io/badge/Purchase-$12-blue?style=flat-square" alt="Purchase"></a>
   <a href="https://github.com/beyondthecode-bc/Meridian/stargazers"><img src="https://img.shields.io/github/stars/beyondthecode-bc/Meridian?style=flat-square" alt="Stars"></a>
 </p>
 
@@ -42,7 +42,7 @@
 
 ## Download
 
-Purchase Meridian from [**Gumroad**](https://beyondthecode.gumroad.com/l/meridian) ($12 one-time). You'll receive a license key by email. Download the app, enter your key, and you're set.
+Purchase Meridian from [**Gumroad**](https://store.beyondthecode.app/l/meridian-macos) ($12 one-time). You'll receive a license key by email. Download the app, enter your key, and you're set.
 
 Your license works on up to 3 Macs at a time. You can deactivate devices from Settings.
 
@@ -71,13 +71,13 @@ The app includes a built-in update checker -- open **About** and click **Check f
 |---|---|
 | **OS** | macOS 14.0 (Sonoma) or later |
 | **Chip** | Any Mac (Apple Silicon or Intel) |
-| **License** | $12 one-time via [Gumroad](https://beyondthecode.gumroad.com/l/meridian) |
+| **License** | $12 one-time via [Gumroad](https://store.beyondthecode.app/l/meridian-macos) |
 
 ## Getting Started
 
 ### 1. Purchase and download
 
-Buy Meridian from [Gumroad](https://beyondthecode.gumroad.com/l/meridian). Download the `.zip`, extract it, and move `Meridian.app` to your Applications folder.
+Buy Meridian from [Gumroad](https://store.beyondthecode.app/l/meridian-macos). Download the `.zip`, extract it, and move `Meridian.app` to your Applications folder.
 
 ### 2. Activate
 
