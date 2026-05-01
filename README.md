@@ -86,6 +86,16 @@ Launch Meridian and enter the license key from your Gumroad purchase email. Clic
 
 Click the **+** button to add team members. Set their name, time zone, and working hours.
 
+## FAQ
+
+### macOS asks for my keychain password on first launch
+
+On first launch you may see a prompt saying *"Meridian wants to use your confidential information stored in your keychain."* This is expected -- Meridian stores an encryption key in your login keychain to protect your team data (names, time zones, working hours) with AES-256 encryption. It also stores your license key in the keychain. Click **Always Allow** so you won't be asked again.
+
+### macOS asks to "access data from other apps"
+
+If you enable the Calendar integration in the Meeting Planner, macOS will ask *"Meridian would like to access data from other apps."* This is required to read your Calendar.app events and show busy times in the planner. Click **Allow** to enable it. Calendar access is optional -- the app works fully without it.
+
 ## Support
 
 - [Report an Issue](https://github.com/beyondthecode-bc/Meridian/issues)
