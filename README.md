@@ -56,6 +56,7 @@ The app includes a built-in update checker -- open **About** and click **Check f
 - **Time Slider** -- Preview future hours with a drag slider. 30-minute snaps, shows how availability changes throughout the day.
 - **Meeting Planner** -- Select participants, set duration, and filter by availability preference (all working, at least N, any overlap). Auto-ranked best slots with star indicator.
 - **Calendar Integration** -- Optional Calendar.app integration shows busy times with hatching overlay in the planner. Requires calendar permission.
+- **Google Meet & Microsoft Teams** -- Automatically generate meeting invites directly from the planner. Pick a time slot, choose your platform, and share.
 - **Copy Formatted Times** -- One click to copy meeting times formatted for each participant's time zone. Plain text and rich text.
 - **Groups** -- Organize team members into groups. Filter the team view and planner by group.
 - **Desktop Widgets** -- Small, medium, and large WidgetKit widgets. Configurable per group. Shows team status, day arcs, and overlap info.
