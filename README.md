@@ -86,15 +86,6 @@ Launch Meridian and enter the license key from your Gumroad purchase email. Clic
 
 Click the **+** button to add team members. Set their name, time zone, and working hours.
 
-## Architecture
-
-```
-Packages/MeridianCore/    -- timezone math, overlap calculator, team model, licensing
-Packages/MeridianUI/      -- team tab, planner, settings, widgets
-Meridian/                 -- app target, MenuBarExtra
-MeridianWidget/           -- WidgetKit extension
-```
-
 ## Support
 
 - [Report an Issue](https://github.com/beyondthecode-bc/Meridian/issues)
