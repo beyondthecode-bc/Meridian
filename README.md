@@ -30,6 +30,10 @@
 
 ---
 
+> [!NOTE]
+> **This repository is the Meridian community hub** — translations, issue tracking, and releases. Meridian is a paid, closed-source macOS app; the source code is not published here. Get Meridian at **[beyondthecode.app](https://beyondthecode.app)**.
+
+
 ## Screenshots
 
 <p align="center">
