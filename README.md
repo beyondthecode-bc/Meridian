@@ -31,7 +31,7 @@
 ---
 
 > [!NOTE]
-> **This repository is the Meridian community hub** — translations, issue tracking, and releases. Meridian is a paid, closed-source macOS app; the source code is not published here. Get Meridian at **[beyondthecode.app](https://beyondthecode.app)**.
+> **This repository is the Meridian community hub** — translations, issue tracking, and releases. Meridian is a closed-source macOS app; the source code is not published here. **[Download Meridian from Releases](https://github.com/beyondthecode-bc/Meridian/releases/latest)** (free) — a one-time license key from [Gumroad](https://store.beyondthecode.app/l/meridian-macos) unlocks it on up to 3 Macs.
 
 
 ## Screenshots
@@ -46,7 +46,7 @@
 
 ## Download
 
-Purchase Meridian from [**Gumroad**](https://store.beyondthecode.app/l/meridian-macos) ($12 one-time). You'll receive a license key by email. Download the app, enter your key, and you're set.
+Download Meridian from [**Releases**](https://github.com/beyondthecode-bc/Meridian/releases/latest). Unzip, move **Meridian.app** to Applications, and launch. To unlock it, buy a one-time license key ($12) from [**Gumroad**](https://store.beyondthecode.app/l/meridian-macos) — you'll get it by email — then enter it and click **Activate**.
 
 Your license works on up to 3 Macs at a time. You can deactivate devices from Settings.
 
@@ -79,13 +79,13 @@ The app includes a built-in update checker -- open **About** and click **Check f
 
 ## Getting Started
 
-### 1. Purchase and download
+### 1. Download and install
 
-Buy Meridian from [Gumroad](https://store.beyondthecode.app/l/meridian-macos). Download the `.zip`, extract it, and move `Meridian.app` to your Applications folder.
+Download the latest `.zip` from [Releases](https://github.com/beyondthecode-bc/Meridian/releases/latest), extract it, and move `Meridian.app` to your Applications folder.
 
 ### 2. Activate
 
-Launch Meridian and enter the license key from your Gumroad purchase email. Click **Activate**.
+Buy a license key ($12 one-time) from [Gumroad](https://store.beyondthecode.app/l/meridian-macos), then launch Meridian, enter the key from your purchase email, and click **Activate**.
 
 ### 3. Add your team
 
