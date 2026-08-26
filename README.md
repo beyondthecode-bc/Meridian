@@ -8,7 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://store.beyondthecode.app/l/meridian"><img src="https://img.shields.io/badge/Purchase-$6.99-blue?style=flat-square" alt="Purchase"></a>
+  <a href="https://apps.apple.com/app/id6799510161"><img src="https://img.shields.io/itunes/v/6799510161?style=flat-square&label=Mac%20App%20Store&color=0D96F6&logo=apple&logoColor=white" alt="Current Meridian Mac App Store version"></a>
+  <a href="https://github.com/beyondthecode-bc/Meridian/releases/latest"><img src="https://img.shields.io/github/v/release/beyondthecode-bc/Meridian?style=flat-square&label=Direct%20build&color=blue" alt="Latest direct release"></a>
   <a href="https://github.com/beyondthecode-bc/Meridian/stargazers"><img src="https://img.shields.io/github/stars/beyondthecode-bc/Meridian?style=flat-square" alt="Stars"></a>
 </p>
 
@@ -31,7 +32,7 @@
 ---
 
 > [!NOTE]
-> **This repository is the Meridian community hub** — translations, issue tracking, and releases. Meridian is a closed-source macOS app; the source code is not published here. **[Download Meridian from Releases](https://github.com/beyondthecode-bc/Meridian/releases/latest)** (free) — a one-time license key from [Gumroad](https://store.beyondthecode.app/l/meridian) unlocks it on up to 3 Macs.
+> **This repository is the Meridian community hub** — translations, issue tracking, and direct releases. Meridian is a closed-source macOS app; the source code is not published here. Meridian is available as a paid-upfront [Mac App Store edition](https://apps.apple.com/app/id6799510161) and as a separately licensed [direct edition](https://github.com/beyondthecode-bc/Meridian/releases/latest).
 
 
 ## Screenshots
@@ -44,13 +45,19 @@
 
 ---
 
-## Download
+## Install and update
 
-Download Meridian from [**Releases**](https://github.com/beyondthecode-bc/Meridian/releases/latest). Unzip, move **Meridian.app** to Applications, and launch. To unlock it, buy a one-time license key ($6.99) from [**Gumroad**](https://store.beyondthecode.app/l/meridian) — you'll get it by email — then enter it and click **Activate**.
+### Existing users
 
-Your license works on up to 3 Macs at a time. You can deactivate devices from Settings.
+- **Mac App Store edition:** open the **App Store → Updates** to install an available update. This edition receives updates only through the Mac App Store.
+- **Direct edition:** open Meridian's menu and choose **Check for Updates…**, or open **Settings → About → Check for Updates**. If the updater is unavailable or fails, download the latest direct ZIP from [GitHub Releases](https://github.com/beyondthecode-bc/Meridian/releases/latest), quit Meridian, and replace `Meridian.app` in Applications manually.
 
-The app includes a built-in update checker -- open **About** and click **Check for Updates** to see if a newer version is available.
+### New installations
+
+- **Mac App Store edition — $6.99:** [buy Meridian on the Mac App Store](https://apps.apple.com/app/id6799510161). It is a paid-upfront app with no account, subscription, in-app purchase, or separate license key.
+- **Direct edition — $6.99 license:** download the signed app from [GitHub Releases](https://github.com/beyondthecode-bc/Meridian/releases/latest), unzip it, and move `Meridian.app` to Applications. Buy a one-time license from [Gumroad](https://store.beyondthecode.app/l/meridian), then enter the emailed key and click **Activate**. The license works on up to three Macs at a time.
+
+The two editions use separate update and licensing channels, so their version numbers may differ.
 
 ## Features
 
@@ -75,19 +82,15 @@ The app includes a built-in update checker -- open **About** and click **Check f
 |---|---|
 | **OS** | macOS 14.0 (Sonoma) or later |
 | **Chip** | Any Mac (Apple Silicon or Intel) |
-| **License** | $6.99 one-time via [Gumroad](https://store.beyondthecode.app/l/meridian) |
+| **Price** | $6.99 one-time from the [Mac App Store](https://apps.apple.com/app/id6799510161) or [Gumroad](https://store.beyondthecode.app/l/meridian) |
 
 ## Getting Started
 
-### 1. Download and install
+### 1. Install your chosen edition
 
-Download the latest `.zip` from [Releases](https://github.com/beyondthecode-bc/Meridian/releases/latest), extract it, and move `Meridian.app` to your Applications folder.
+Use the [Mac App Store](https://apps.apple.com/app/id6799510161), or install and activate the separately licensed direct edition using the instructions above.
 
-### 2. Activate
-
-Buy a license key ($6.99 one-time) from [Gumroad](https://store.beyondthecode.app/l/meridian), then launch Meridian, enter the key from your purchase email, and click **Activate**.
-
-### 3. Add your team
+### 2. Add your team
 
 Click the **+** button to add team members. Set their name, time zone, and working hours.
 
