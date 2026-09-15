@@ -35,6 +35,18 @@
 > **This repository is the Meridian community hub** — translations, issue tracking, and direct releases. Meridian is a closed-source macOS app; the source code is not published here. Meridian is available as a paid-upfront [Mac App Store edition](https://apps.apple.com/app/id6799510161) and as a separately licensed [direct edition](https://github.com/beyondthecode-bc/Meridian/releases/latest).
 
 
+
+<!-- os27-compatibility:start -->
+## OS 27 compatibility
+
+Updated 2026-09-16.
+
+- **GitHub — Version 1.0.0:** OS 27 review remains incomplete while the source for the published GitHub build is verified. Compatibility has not been confirmed.
+- **App Store — Version 1.0:** OS 27 compatibility checked with Xcode 27 app and widget builds and automated core tests.
+
+Checks use Xcode 27 builds and automated tests where available. Full testing on physical devices has not been completed. Minimum OS requirements are unchanged.
+<!-- os27-compatibility:end -->
+
 ## Screenshots
 
 <p align="center">
